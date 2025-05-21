@@ -54,7 +54,7 @@ We believe crypto represents a fundamental shift:
 
 ## 📄 License
 
-Content on this repository (if any) is shared for educational and informational purposes. For reuse or collaboration, please reach out via [info@bitzuma.com](mailto:info@bitzuma.com).
+Content on this repository (if any) is shared for educational and informational purposes. For reuse or collaboration, please reach out via [hello@bitzuma.com](mailto:hello@bitzuma.com).
 
 ---
 
